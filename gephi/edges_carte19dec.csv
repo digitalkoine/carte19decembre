@@ -1,0 +1,34 @@
+source,target,label,weight
+009p,021p,Turisme,4
+009p,008p,Travail,12
+009p,005p,conseil de guerre,6
+011p,006p,tricot,10
+011p,002p,manger,26
+011p,009p,super cours,33
+003p,008p,glaces,358
+003p,006p,nougat ,5
+003p,012p,théâtre,2
+008p,006p,devenir popstar,364
+008p,010p,repas de Noël,1
+008p,005p,session gossip,35
+006p,001p,Concert,3
+006p,021p,Recevoir un cadeau,10
+006p,009p,Cours,5
+021p,012p,anniversaire,1
+021p,008p,danse,3
+021p,006p,la regarder,100
+005p,009p,Cours,30
+005p,011p,Caresser le chat,24
+005p,010p,Travailler,10
+010p,001p,nouvelles,1
+010p,006p,nouvelles,1
+010p,,nouvelles,1
+002p,011p,deprime ,13
+002p,012p,pedro pascal,2
+002p,008p,cadeau de noel,25
+001p,009p,Tourisme,1
+001p,003p,Lire,10
+001p,021p,Regarder un film,60
+012p,010p,Lire,3
+012p,006p,Bagarre,5
+012p,009p,Boire,12
